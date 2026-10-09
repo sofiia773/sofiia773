@@ -17,16 +17,20 @@ I'm a second-year BSc Data Science and Artificial Intelligence student with an i
 
 ---
 
-## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+## Tech Stack
+
+**Programming & Web Technologies**
+
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
+![C](https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-334155?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-334155?style=flat-square&logo=css&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiia-diachenko-36a868373)
+[LinkedIn — Sofiia Diachenko](https://www.linkedin.com/in/sofiia-diachenko-36a868373)
+
